@@ -1,1 +1,1 @@
-shell basics task
+repository for shell basics task
